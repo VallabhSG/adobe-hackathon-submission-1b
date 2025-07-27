@@ -1,0 +1,14 @@
+# Core ML/NLP Libraries
+torch
+sentence-transformers
+scikit-learn
+numpy
+
+# PDF Processing
+PyMuPDF
+
+# Utility for progress bars
+tqdm
+
+# Libraries for running optimized/quantized models
+optimum[onnxruntime]
