@@ -5,7 +5,7 @@ Our solution is a robust, offline-first system designed to act as an intelligent
 
 ### Project Structure
 The project is organized into a clean, self-contained directory. The `input` folder holds the source PDFs and the `persona.json` configuration, while the `output` folder stores the final analysis. All core logic, dependencies, and containerization instructions are in the root directory.
-'''
+```
 /adobe-hackathon/
 ├── input/
 │   ├── docs/
@@ -18,7 +18,7 @@ The project is organized into a clean, self-contained directory. The `input` fol
 ├── Dockerfile
 ├── requirements.txt
 └── approach_explanation.md
-'''
+```
 
 ### Methodology
 
