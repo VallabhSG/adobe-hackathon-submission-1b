@@ -60,7 +60,7 @@ The system takes a structured JSON file as input, which defines the documents to
   }
 }
 
-Sample Output JSON Structure
+**### Sample Output JSON Structure**
 The final output is a structured JSON file containing metadata, a ranked list of the most relevant sections, and the detailed text of those sections. The rank is a clean integer, and the sub-section analysis provides the core text.
 
 {
